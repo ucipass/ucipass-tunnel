@@ -6,7 +6,7 @@
 "sshHostPort" : "22222",
 "sshUsername" : "username",
 "sshPassword" : "",
-"sshLocalHost" : "localhost",
+"sshLocalHost" : "127.0.0.1",
 "sshLocalPort" : "33389",
 "sshDstHost" : "remotehost",
 "sshDstPort" : "3389",
