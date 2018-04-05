@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "readline-sync": "^1.4.9",
     "tunnel-ssh": "^4.1.4",
     "ucipass-file": "^1.0.14",
     "wstunnel": "^1.2.5"
