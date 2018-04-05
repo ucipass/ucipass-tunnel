@@ -1,0 +1,14 @@
+{
+"wsHostURL" : "wss://wshost.domain:443/path",
+"wsSourceTunnelHostPort" : "127.0.0.1:22222",
+"wsDestinationTunnelHostPort" : "127.0.0.1:22",
+"sshHostName" : "127.0.0.1",
+"sshHostPort" : "22222",
+"sshUsername" : "username",
+"sshPassword" : "",
+"sshLocalHost" : "localhost",
+"sshLocalPort" : "33389",
+"sshDstHost" : "remotehost",
+"sshDstPort" : "3389",
+"sshKeyFile" : "wst.key"
+}
